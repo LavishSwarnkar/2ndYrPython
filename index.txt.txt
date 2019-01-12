@@ -1,0 +1,12 @@
+1. Hello World
+2. Getting user input
+3. Check if no is +ive or -ive
+4. Leap year
+5. Check if input character is alphabet or not
+6. Check Vowel
+7. Add 2 no.
+8. Check even or odd
+9. Calculate length of a string
+10. Circumference of circle
+11. Print Calendar
+12. Find diff. of days b/w 2 dates
