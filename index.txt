@@ -19,7 +19,7 @@
   if(1,50,000-3 Lac) 10% 
   if(3 Lac-5 Lac) 20%
   if(>5 Lac) 30%
-18. Enter marks of student in 4 subjects then calculate an aggregate and display grade obtained by the student (agg>75% Distinction, 62-75 I div, 50-60 II div, 40-50 III div, <40 Fail)
+18. Enter marks of student in 4 subjects then calculate an aggregate and display grade obtained by the student (agg>75% Distinction, 60-75 I div, 50-60 II div, 40-50 III div, <40 Fail)
 19. Armstrong No.
 20. Implement bitwise operators
 21. Calculate sum of number from m to n
