@@ -10,3 +10,17 @@
 10. Circumference of circle
 11. Print Calendar
 12. Find diff. of days b/w 2 dates
+13. Design a calculator
+14. Greatest among 3 numbers
+15. To find eleigible to vote or not & how many years are left to be eligible
+16. To convert a character in lower to upper & vice versa
+17. Calculate tax
+  if(income<1,50,000) no tax
+  if(1,50,000-3 Lac) 10% 
+  if(3 Lac-5 Lac) 20%
+  if(>5 Lac) 30%
+18.
+19. Armstrong No.
+20. Implement bitwise operators
+21. Calculate sum of number from m to n
+22. To find factorial of a number
