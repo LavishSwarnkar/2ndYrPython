@@ -24,3 +24,12 @@
 20. Implement bitwise operators
 21. Calculate sum of number from m to n
 22. To find factorial of a number
+23. Sum & average of first n natural numbers
+24. Multiplication table
+25. Odd Evens between a range of numbers
+26. Prime number check
+27. Escape characters
+28. Print pattern
+29. Foramt specifiers
+30. Sum of a series
+31. Unicode character
