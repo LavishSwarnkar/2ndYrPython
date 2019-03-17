@@ -10,26 +10,58 @@
 10. Circumference of circle
 11. Print Calendar
 12. Find diff. of days b/w 2 dates
-13. Design a calculator
+13. Calculator
 14. Greatest among 3 numbers
-15. To find eleigible to vote or not & how many years are left to be eligible
-16. To convert a character in lower to upper & vice versa
-17. Calculate tax
-  if(income<1,50,000) no tax
-  if(1,50,000-3 Lac) 10% 
-  if(3 Lac-5 Lac) 20%
-  if(>5 Lac) 30%
-18. Enter marks of student in 4 subjects then calculate an aggregate and display grade obtained by the student (agg>75% Distinction, 60-75 I div, 50-60 II div, 40-50 III div, <40 Fail)
-19. Armstrong No.
-20. Implement bitwise operators
-21. Calculate sum of number from m to n
-22. To find factorial of a number
-23. Sum & average of first n natural numbers
-24. Multiplication table
-25. Odd Evens between a range of numbers
-26. Prime number check
-27. Escape characters
-28. Print pattern
-29. Foramt specifiers
-30. Sum of a series
-31. Unicode character
+15. Eligibility to vote checker
+16. String Uppercase to Lowercase & vice-versa
+17. Tax Calculator
+18. Grade Calculator
+19. Armstrong Number checker
+20. Bitwise Operators
+21. Sum of numbers from m to n
+22. Factorial Calculator
+23. Sum & Average of n natural nos.
+24. Print Multiplication Table
+25. Classify Even or Odd
+26. Classify Prime or Composite
+27. Escape character
+28. Print the pattern
+29. String Formatting
+30. Sum of Series
+31. Unicode Character
+32. Length of string
+33. Uppercase, Lowercase, TitleCase, Camelcase
+34. RESTART -> $ESTA$T : Replace all occurences
+35. RESTART -> RESTA$T : Using ltrim()
+36. Sentence Reverse
+37. Replace " " with "*"
+38. Exchange first & last character
+39. Add "*" between all characters
+40. WAP to implement basic list operations: len(), max(), min(), concatenate, sum(), sort()
+41. WAP to implement following list functions: append(), count(), index(), reverse()
+42. WAP to implement insert(), pop(), remove(), extend()
+43. WAP to implement following list functions: in, not in, all(), any(), list()
+44. WAP to remove all duplicate data items in a list
+45. WAP that creates a list of numbers from 1 to 20 that are either divisible by 2 or 4
+46. WAP to create a list of number in range 1 to 10 then delete all even numbers from the list and print the final list
+47. WAP to print index at which a particular value exists. If the value exists at multiple location in the list then print all indices and count no. of times that value is repeated
+
+41. List concatenation
+42. in, not in operator on list
+43. min, max in list
+44. sum of list
+45. all()
+46. any()
+47. list()
+48. sorted()
+49. List indexing
+50. append()
+51. count()
+52. index()
+53. insert()
+54. pop()
+55. remove()
+56. sort(), reverse()
+57. extend()
+58. list within list
+59. del
