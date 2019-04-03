@@ -31,7 +31,7 @@
 31. Unicode Character
 32. Length of string
 33. Uppercase, Lowercase, TitleCase, Camelcase
-34. RESTART -> $ESTA$T : Replace all occurences
+34. RESTART -> $ESTA$T : Replace all occurrences
 35. RESTART -> RESTA$T : Using ltrim()
 36. Sentence Reverse
 37. Replace " " with "*"
@@ -45,6 +45,18 @@
 45. WAP that creates a list of numbers from 1 to 20 that are either divisible by 2 or 4
 46. WAP to create a list of number in range 1 to 10 then delete all even numbers from the list and print the final list
 47. WAP to print index at which a particular value exists. If the value exists at multiple location in the list then print all indices and count no. of times that value is repeated
+48. Dictionary of cubes using dict comprehension
+49. Reverse dictionary
+50. Count occurrence of characters in a string
+51. Filter out +ive nos. from a list of +ive & -ive nos.
+52. Convert string of all uppercase characters to lowercase in a list using map
+53. Implementing max() using reduce()
+54. Lambda functions to scale a number by a factor of 2, 3, 4
+55. Extract date from string using RegEx
+56. Replace (, : -) with " " in string
+57. WAP to create a tuple, access its values and delete elements from it
+58. WAP to perform following operations on tuple:
+    legth(), concatenation, repetition, max(), min(), comparison
 
 41. List concatenation
 42. in, not in operator on list
