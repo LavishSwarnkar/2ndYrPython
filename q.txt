@@ -1,5 +1,0 @@
-1. WAP to extract a date from a given string
-2. WAP that replaces (, : -) from a string with a blank space character
-3. WAP to create a tuple, access its values and delete elements from it
-4. WAP to perform following operations on tuple: 
-   legth(), concatenation, repetition, max(), min(), comparison
