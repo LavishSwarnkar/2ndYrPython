@@ -57,6 +57,12 @@
 57. WAP to create a tuple, access its values and delete elements from it
 58. WAP to perform following operations on tuple:
     legth(), concatenation, repetition, max(), min(), comparison
+59. Create dictionary
+60. Access Dictionary
+61. Add, Modify, Delete in dictionary
+62. Use of clear() on dictionary
+63. Use of len() on dictionary
+64. Use of sorted() on dictionary
 
 41. List concatenation
 42. in, not in operator on list
