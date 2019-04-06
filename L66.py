@@ -1,0 +1,6 @@
+f1 = open("files\\in.txt", mode="rb")
+f2 = open("files\\out.txt", mode="wb")
+f2.write(f1.read(10))
+f1.close()
+f2.close()
+print("in.txt copied to out.txt!")

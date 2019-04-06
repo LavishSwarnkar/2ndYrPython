@@ -1,0 +1,8 @@
+f1 = open("files\\in1.txt", mode="r")
+f2 = open("files\\in2.txt", mode="r")
+f3 = open("files\\out.txt", mode="w")
+f3.write(f1.read() + "\n" + f2.read())
+f1.close()
+f2.close()
+f3.close()
+print("in1.txt and in2.txt merged into out.txt!")
