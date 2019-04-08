@@ -63,6 +63,12 @@
 62. Use of clear() on dictionary
 63. Use of len() on dictionary
 64. Use of sorted() on dictionary
+65. Write a binary text file
+66. WAP that copies first 10 bytes of a binary file into another file
+67. WAP that copies one python script into another in such a way that all comment lines are skipped and not copies in destination file
+68. WAP that accepts file name as an input from the user. Open the file and count the number of times a character appears in a file.
+69. WAP that reads text from a file and writes it into another file but in reverse order
+70. WAP that merges two files into a third file
 
 41. List concatenation
 42. in, not in operator on list
