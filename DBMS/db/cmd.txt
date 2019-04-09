@@ -1,0 +1,2 @@
+mysqldump -u root bank> C:\db\bank.sql
+mysql -u root -p bank < c:\db\bank.sql
